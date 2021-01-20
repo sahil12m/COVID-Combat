@@ -3,4 +3,4 @@ This is a Covid Prevention Project which consists of 3 different deep learning m
 This project is done by:
   Sahil Mondal
   Atharva Jibhakate
-  Pranav Parenerkar
+  Pranav Parnerkar
