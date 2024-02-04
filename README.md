@@ -1,5 +1,5 @@
 # COVID-Combat
-This is a Covid Prevention Project which consists of 3 different deep learning models to detect people wearing facial masks, ensure they are maintaining social distacing and facial recognition module to ensure safety of people during pandemic times.
+This is a Covid Prevention Project which consists of 3 different deep learning models to detect people wearing face masks, ensure they are maintaining social distacing and facial recognition module to ensure safety of people during pandemic times.
 
 Example Video of Social Distancing Detector:
 
